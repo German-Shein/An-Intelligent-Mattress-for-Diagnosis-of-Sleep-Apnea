@@ -1,0 +1,5 @@
+# An Intelligent Mattress for Diagnosis of Sleep Apnea [1]
+
+Sleep apnea is one of the main concerns of the middle-aged people as it negatively impacts their sleep quality, health in general, and can go undetected until serious damage is done. The purpose of this project is to build a system that allows the users to diagnose this disorder in the home environment with minimal physical attachments and without body invasive measurements. The hardware components of the system are various physiological measurement sensors. These sensors include but are not limited to heartbeat, body temperature and weighing sensors that are connected to microcontrollers. All of the hardware is placed inside the mattress and sends the data to the server. The server will use pulse, breathing recordings and lungs pressure to diagnose sleep apnea. Finally, the system is supposed to store the obtained measurements and diagnosis in a database. The conducted research, literature review and the design description are presented in this report.
+
+[1] G. Shein and S. Narayanan, "An Intelligent Mattress for Diagnosis of Sleep Apnea", American University of Sharjah, Dec. 2016
